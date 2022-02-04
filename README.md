@@ -8,4 +8,4 @@ You are a data analyst and an SQL expert. You have to use SQL to analyse the giv
  
 The SQL script file for the questions is given.
 The dataset is also provided alongwith an Entity-Relationship Diagram.
-The Solution to the questions is given in another SQL Script file named 'IMDB+question+answered.sql'
+The solution to the questions is given in another SQL Script file named 'IMDB+question+answered.sql'
